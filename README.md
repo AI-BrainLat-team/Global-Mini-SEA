@@ -12,8 +12,8 @@ This repository contains the code to implement the reported results in our paper
 
 * *Data*:
   - Demographics, cognitive, executive and dependent variables can be found in the <code>Data/Base.xlsx</code> file.
-  - All of the above and Gray Matter variables can be found in the <code>Data/RSN_GM_Base</code> folder.
-  - All of the above and rotation variables can be found in the <code>Data/ROI_GM_Base</code> folder.
+  - All of the above and mean Gray Matter variables by resting networks regions can be found in the <code>Data/RSN_GM_Base</code> folder.
+  - Resting networks regions and functionality variables can be found in the <code>Data/ROI_GM_Base</code> folder.
 
 * *Anaconda environment*:
   - All used software and their versions are provided in the <code>MINISEA_env.yml</code> file.
