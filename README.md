@@ -1,5 +1,5 @@
 # Global-Mini-SEA
-#---
+---
 #### Description 
 
 This repository contains the code to implement the reported results in our paper.
