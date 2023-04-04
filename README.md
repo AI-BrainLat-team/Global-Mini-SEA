@@ -1,4 +1,4 @@
-# Global-Mini-SEA
+# Heterogeneous factors influence social cognition across diverse settings in brain health and age-related diseases
 ---
 #### Description 
 
