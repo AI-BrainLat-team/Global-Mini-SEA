@@ -1,0 +1,159 @@
+name;factors;factors_name
+country_class;DF;Demographic Factor
+Edad_procesada;DF;Demographic Factor
+years_education;DF;Demographic Factor
+gender;DF;Demographic Factor
+cognition_general_score;CF;Cognition Factor
+executive_score;CF;Cognition Factor
+diagnosis_specify;HF;Health Factor
+DMN;FF;Functional Features
+EN;FF;Functional Features
+MN;FF;Functional Features
+SN;FF;Functional Features
+VN;FF;Functional Features
+Promedio_traslacion;FP;Functional Problems
+Promedio_rotacion;FP;Functional Problems
+Ant_tha_rad_L;WMF;Flair Factors L
+Ant_tha_rad_R;WMF;Flair Factors R
+Cor_tra_L;WMF;Flair Factors L
+Cor_tra_R;WMF;Flair Factors R
+Cin_cin_gyr_L;WMF;Flair Factors L
+Cin_cin_gyr_R;WMF;Flair Factors R
+Cin_hip_L;WMF;Flair Factors L
+Cin_hip_R;WMF;Flair Factors R
+For_maj;WMF;Flair Factors
+For_min;WMF;Flair Factors
+Inf_fro_occ_fas_L;WMF;Flair Factors L
+Inf_fro_occ_fas_R;WMF;Flair Factors R
+Inf_lon_fas_L;WMF;Flair Factors L
+Inf_lon_fas_R;WMF;Flair Factors R
+Sup_lon_fas_L;WMF;Flair Factors L
+Sup_lon_fas_R;WMF;Flair Factors R
+Unc_fas_L;WMF;Flair Factors L
+Unc_fas_R;WMF;Flair Factors R
+Sup_lon_fas_tem_par_L;WMF;Flair Factors L
+Sup_lon_fas_tem_par_R;WMF;Flair Factors R
+TotalLesion;HF;Health Factor
+1. Precentral_L';GMF;GM Factor
+2. Precentral_R';GMF;GM Factor
+3. Frontal_Sup_L';GMF;GM Factor
+4. Frontal_Sup_R';GMF;GM Factor
+5. Frontal_Sup_Orb_L';GMF;GM Factor
+6. Frontal_Sup_Orb_R';GMF;GM Factor
+7. Frontal_Mid_L';GMF;GM Factor
+8. Frontal_Mid_R';GMF;GM Factor
+9. Frontal_Mid_Orb_L';GMF;GM Factor
+10. Frontal_Mid_Orb_R';GMF;GM Factor
+11. Frontal_Inf_Oper_L';GMF;GM Factor
+12. Frontal_Inf_Oper_R';GMF;GM Factor
+13. Frontal_Inf_Tri_L';GMF;GM Factor
+14. Frontal_Inf_Tri_R';GMF;GM Factor
+15. Frontal_Inf_Orb_L';GMF;GM Factor
+16. Frontal_Inf_Orb_R';GMF;GM Factor
+17. Rolandic_Oper_L';GMF;GM Factor
+18. Rolandic_Oper_R';GMF;GM Factor
+19. Supp_Motor_Area_L';GMF;GM Factor
+20. Supp_Motor_Area_R';GMF;GM Factor
+21. Olfactory_L';GMF;GM Factor
+22. Olfactory_R';GMF;GM Factor
+23. Frontal_Sup_Medial_L';GMF;GM Factor
+24. Frontal_Sup_Medial_R';GMF;GM Factor
+25. Frontal_Med_Orb_L';GMF;GM Factor
+26. Frontal_Med_Orb_R';GMF;GM Factor
+27. Rectus_L';GMF;GM Factor
+28. Rectus_R';GMF;GM Factor
+29. Insula_L';GMF;GM Factor
+30. Insula_R';GMF;GM Factor
+31. Cingulum_Ant_L';GMF;GM Factor
+32. Cingulum_Ant_R';GMF;GM Factor
+33. Cingulum_Mid_L';GMF;GM Factor
+34. Cingulum_Mid_R';GMF;GM Factor
+35. Cingulum_Post_L';GMF;GM Factor
+36. Cingulum_Post_R';GMF;GM Factor
+37. Hippocampus_L';GMF;GM Factor
+38. Hippocampus_R';GMF;GM Factor
+39. ParaHippocampal_L';GMF;GM Factor
+40. ParaHippocampal_R';GMF;GM Factor
+41. Amygdala_L';GMF;GM Factor
+42. Amygdala_R';GMF;GM Factor
+43. Calcarine_L';GMF;GM Factor
+44. Calcarine_R';GMF;GM Factor
+45. Cuneus_L';GMF;GM Factor
+46. Cuneus_R';GMF;GM Factor
+47. Lingual_L';GMF;GM Factor
+48. Lingual_R';GMF;GM Factor
+49. Occipital_Sup_L';GMF;GM Factor
+50. Occipital_Sup_R';GMF;GM Factor
+51. Occipital_Mid_L';GMF;GM Factor
+52. Occipital_Mid_R';GMF;GM Factor
+53. Occipital_Inf_L';GMF;GM Factor
+54. Occipital_Inf_R';GMF;GM Factor
+55. Fusiform_L';GMF;GM Factor
+56. Fusiform_R';GMF;GM Factor
+57. Postcentral_L';GMF;GM Factor
+58. Postcentral_R';GMF;GM Factor
+59. Parietal_Sup_L';GMF;GM Factor
+60. Parietal_Sup_R';GMF;GM Factor
+61. Parietal_Inf_L';GMF;GM Factor
+62. Parietal_Inf_R';GMF;GM Factor
+63. SupraMarginal_L';GMF;GM Factor
+64. SupraMarginal_R';GMF;GM Factor
+65. Angular_L';GMF;GM Factor
+66. Angular_R';GMF;GM Factor
+67. Precuneus_L';GMF;GM Factor
+68. Precuneus_R';GMF;GM Factor
+69. Paracentral_Lobule_L';GMF;GM Factor
+70. Paracentral_Lobule_R';GMF;GM Factor
+71. Caudate_L';GMF;GM Factor
+72. Caudate_R';GMF;GM Factor
+73. Putamen_L';GMF;GM Factor
+74. Putamen_R';GMF;GM Factor
+75. Pallidum_L';GMF;GM Factor
+76. Pallidum_R';GMF;GM Factor
+77. Thalamus_L';GMF;GM Factor
+78. Thalamus_R';GMF;GM Factor
+79. Heschl_L';GMF;GM Factor
+80. Heschl_R';GMF;GM Factor
+81. Temporal_Sup_L';GMF;GM Factor
+82. Temporal_Sup_R';GMF;GM Factor
+83. Temporal_Pole_Sup_L';GMF;GM Factor
+84. Temporal_Pole_Sup_R';GMF;GM Factor
+85. Temporal_Mid_L';GMF;GM Factor
+86. Temporal_Mid_R';GMF;GM Factor
+87. Temporal_Pole_Mid_L';GMF;GM Factor
+88. Temporal_Pole_Mid_R';GMF;GM Factor
+89. Temporal_Inf_L';GMF;GM Factor
+90. Temporal_Inf_R';GMF;GM Factor
+91. Cerebelum_Crus1_L';GMF;GM Factor
+92. Cerebelum_Crus1_R';GMF;GM Factor
+93. Cerebelum_Crus2_L';GMF;GM Factor
+94. Cerebelum_Crus2_R';GMF;GM Factor
+95. Cerebelum_3_L';GMF;GM Factor
+96. Cerebelum_3_R';GMF;GM Factor
+97. Cerebelum_4_5_L';GMF;GM Factor
+98. Cerebelum_4_5_R';GMF;GM Factor
+99. Cerebelum_6_L';GMF;GM Factor
+100. Cerebelum_6_R';GMF;GM Factor
+101. Cerebelum_7b_L';GMF;GM Factor
+102. Cerebelum_7b_R';GMF;GM Factor
+103. Cerebelum_8_L';GMF;GM Factor
+104. Cerebelum_8_R';GMF;GM Factor
+105. Cerebelum_9_L';GMF;GM Factor
+106. Cerebelum_9_R';GMF;GM Factor
+107. Cerebelum_10_L';GMF;GM Factor
+108. Cerebelum_10_R';GMF;GM Factor
+109. Vermis_1_2';GMF;GM Factor
+110. Vermis_3';GMF;GM Factor
+111. Vermis_4_5';GMF;GM Factor
+112. Vermis_6';GMF;GM Factor
+113. Vermis_7';GMF;GM Factor
+114. Vermis_8';GMF;GM Factor
+115. Vermis_9';GMF;GM Factor
+116. Vermis_10';GMF;GM Factor
+VIT;WMF;WM Factor
+sex;DF;Demographic Factor
+p_DMN;GMF;Functional Features
+p_EN;GMF;Functional Features
+p_MN;GMF;Functional Features
+p_SN;GMF;Functional Features
+p_VN;GMF;Functional Features
